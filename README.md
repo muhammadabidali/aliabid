@@ -1,1 +1,2 @@
 # aliabid
+ updated read me 
